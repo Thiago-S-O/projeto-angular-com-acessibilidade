@@ -25,3 +25,15 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+____________________________________________________________________
+
+# Observações
+
+- Esse arquivo só roda  com a versão Node.js v10.21 até a v12.
+- Para baixar as depenências e rodar o projeto: `npm install` e `npm run start`
+
+## primeira parte
+- Revisão de estruturas de um componente;
+- Input binding vs Event Binding;
+- Padrão para utilizar two-way data binding;
