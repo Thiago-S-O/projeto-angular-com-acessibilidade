@@ -37,3 +37,10 @@ ____________________________________________________________________
 - Revisão de estruturas de um componente;
 - Input binding vs Event Binding;
 - Padrão para utilizar two-way data binding;
+
+## segunda parte - integração com o reactive forms
+- Integração de um costom component com o Reactive Forms;
+- Interface ControlValueAccessor;
+- O papel do token NG_VALUE_ACCESSOR;
+- Utilização ngModel e formControlName com um custom component.
+
