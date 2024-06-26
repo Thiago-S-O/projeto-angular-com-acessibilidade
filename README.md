@@ -32,6 +32,9 @@ ____________________________________________________________________
 
 - Esse arquivo só roda  com a versão Node.js v10.21 até a v12.
 - Para baixar as depenências e rodar o projeto: `npm install` e `npm run start`
+- https://www.w3c.br/traducoes/wcag/wcag21-pt-BR/ - regras de acessibilidade
+- Screen Reader, extensão do chrome para acessibilidade text reader
+- gera id's únicos: `npm install uuid@8.3.0`
 
 ## primeira parte
 - Revisão de estruturas de um componente;
@@ -44,3 +47,11 @@ ____________________________________________________________________
 - O papel do token NG_VALUE_ACCESSOR;
 - Utilização ngModel e formControlName com um custom component.
 
+## terceira parte - acessibilidade 
+- Onde encontrar e como aplicar regras da WCAG;
+- Papel dos atributos ARIA;
+- Utilização do Chromevox (Screen Reader) como text reader;
+- A importância de se garantir um único ID;
+- Evitar que mudanças em componentes externos afetem seu componente.
+
+## quarta parte - 
