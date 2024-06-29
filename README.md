@@ -54,4 +54,8 @@ ____________________________________________________________________
 - A importância de se garantir um único ID;
 - Evitar que mudanças em componentes externos afetem seu componente.
 
-## quarta parte - 
+## quarta parte - lidando com o teclado
+- como aplicar regras de interação com teclado da WCAG;
+- a importância do atributo tabindex;
+- criar um keyboardManager reutilizável;
+- utilização do @ContentChildren para injeção de diretivas de marcação;
