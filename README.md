@@ -59,3 +59,9 @@ ____________________________________________________________________
 - a importância do atributo tabindex;
 - criar um keyboardManager reutilizável;
 - utilização do @ContentChildren para injeção de diretivas de marcação;
+
+## quinta parte - revisão do componente
+- acessibilidade eo estado de disabled de elementos;
+- gerenciar o estado disabled de um FormControl do Reactive Form;
+- a importância de comecar utilizando componentes nativos do HTML para a acessibilidade;
+- a reimplantação do componente para que utilize elementos nativos do HTML;
